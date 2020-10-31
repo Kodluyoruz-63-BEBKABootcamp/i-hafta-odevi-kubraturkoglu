@@ -1,3 +1,6 @@
+## Açılması gereken hesaplar : 
+1) https://www.hackerrank.com/kbraatrkl/hackos
+2) https://stackexchange.com/users/19814344/kubra-t%c3%bcrkoglu
 ## Docker'a ve Docker'a ait kavramlara nelerdir?
 Docker , uygulamaların bulutta veya şirket içinde çalışabilen, taşınabilir, kendi kendine yeterli
 kapsayıcı olarak dağıtımını otomatik hale getirmeye yönelik Açık kaynaklı bir projedir.
